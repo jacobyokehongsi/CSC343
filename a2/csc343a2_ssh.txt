@@ -1,0 +1,4 @@
+ssh siyoke@dbsrv1.teach.cs.toronto.edu
+cd CSC343
+psql csc343h-siyoke
+\i air_travel.ddl
